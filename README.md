@@ -1,3 +1,3 @@
 # react-simple-o2o-demo
 
-代码尚在开发中
+利用React实现模拟大众点评WebApp的一个项目
