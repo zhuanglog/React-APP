@@ -8,3 +8,5 @@ git clone后先进行npm install
 
 重新进入一次命令行界面，输入npm start
 
+进入浏览器界面后按F12，然后按ctrl+shift+M就可以看到所有效果了
+
